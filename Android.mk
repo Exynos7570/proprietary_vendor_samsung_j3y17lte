@@ -16,7 +16,7 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE),on7xelte)
+ifeq ($(TARGET_DEVICE),j3y17lte)
 
 include $(CLEAR_VARS)
 LOCAL_MODULE := libGLES_mali

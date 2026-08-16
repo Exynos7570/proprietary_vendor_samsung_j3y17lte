@@ -89,6 +89,8 @@ Telekom HU"THU
 22201I TIM"TIM
 
 22210vodafone IT"voda IT
+
+22250ILIAD"ILIAD
 
 22288I WIND"I WIND
 
@@ -265,6 +267,8 @@ Beeline UA"Beeline
 25902Moldcell"Moldcell
 
 25905UNITE"UNITE
+
+25915IDC"IDC
 
 26001Plus"PLUS
 
@@ -579,6 +583,8 @@ CoverageCo"CvgCo
 312260USACL"USACL
 
 312280Pioneer"CNP
+'
+312290Strata Networks USA"Strata
 
 312480Nemont"Nemont
  
@@ -596,6 +602,8 @@ NetGenuity"NetGenui
 334020TELCEL"TELCEL
 
 334050AT&T"AT&T
+
+334070AT&T"AT&T
 
 33490AT&T"AT&T
 
@@ -1149,6 +1157,8 @@ IN Telenor"Telenor
 41003PK-UFONE"UFONE
 
 41004ZONG"ZONG
+
+41005SCOM-PK"SCOM
 
 41006
 Telenor PK"TELENOR
@@ -1373,8 +1383,8 @@ $
 45504CTM"CTM
 
 45601Cellcard"Cellcard
-
-45604CADCOMMS"CADCOMMS
+
+45604qb"qb
 
 45605SMART"SMART
 
@@ -1717,8 +1727,8 @@ Tigo Ghana"MIC
 62140ntel"ntel
 
 62150Glo NG"glo
-
-621609 mobile"9 mobile
+
+621609mobile"9mobile
 
 62201Airtel"Airtel
 
@@ -1746,6 +1756,8 @@ Orange CAM"Orange
 
 62602
 Unitel STP"Unitel
+
+62701GETESA"GETESA
 
 62703GNQ-Muni"Muni-GQ
 
@@ -1826,6 +1838,9 @@ GSM Telkom"GSMTKL
 64005Airtel"Airtel
 
 64101Airtel"Airtel
+
+64106
+VodafoneUG"VFU
 
 64110
 MTN-UGANDA"MTN-UG
@@ -2100,4 +2115,6 @@ AeroMobile"AeroMob
 
 90145AISatSea"AISatSea
 
-90150EchoStar Mobile"EML&Published TS25 Database 07 August 2017
+90150EchoStar Mobile"EML
+
+991044AT&T"AT&T'Published TS25 Database 02 October 2017
