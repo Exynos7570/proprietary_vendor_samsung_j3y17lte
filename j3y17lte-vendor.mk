@@ -27,7 +27,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j3y17lte/proprietary/lib/egl/libGLES_android.so:system/lib/egl/libGLES_android.so \
     vendor/samsung/j3y17lte/proprietary/lib/hw/camera.universal7570.so:system/lib/hw/camera.universal7570.so \
     vendor/samsung/j3y17lte/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
-    vendor/samsung/j3y17lte/proprietary/lib/hw/sensors.universal7870.so:system/lib/hw/sensors.universal7570.so \
+    vendor/samsung/j3y17lte/proprietary/lib/hw/sensors.universal7570.so:system/lib/hw/sensors.universal7570.so \
     vendor/samsung/j3y17lte/proprietary/lib/libHpr_RecFace_dl_v1.0.so:system/lib/libHpr_RecFace_dl_v1.0.so \
     vendor/samsung/j3y17lte/proprietary/lib/libHpr_RecGAE_cvFeature_v1.0.so:system/lib/libHpr_RecGAE_cvFeature_v1.0.so \
     vendor/samsung/j3y17lte/proprietary/lib/libHpr_TaskFaceClustering_hierarchical_v1.0.so:system/lib/libHpr_TaskFaceClustering_hierarchical_v1.0.so \
