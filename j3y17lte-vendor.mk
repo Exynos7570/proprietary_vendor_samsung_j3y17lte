@@ -61,7 +61,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j3y17lte/proprietary/vendor/firmware/setfile_4h5yc.bin:system/vendor/firmware/setfile_4h5yc.bin \
     vendor/samsung/j3y17lte/proprietary/vendor/firmware/setfile_imx258.bin:system/vendor/firmware/setfile_imx258.bin \
     vendor/samsung/j3y17lte/proprietary/vendor/lib/egl/libGLES_mali.so:system/vendor/lib/egl/libGLES_mali.so \
-    vendor/samsung/j3y17lte/proprietary/vendor/lib/hw/flp.default.so:system/vendor/lib/hw/flp.default.so \
     vendor/samsung/j3y17lte/proprietary/vendor/lib/libHpr_LocFace_mvfd_v1.0.so:system/vendor/lib/libHpr_LocFace_mvfd_v1.0.so \
     vendor/samsung/j3y17lte/proprietary/vendor/lib/libHpr_LocLandmark_sdm_v1.0.so:system/vendor/lib/libHpr_LocLandmark_sdm_v1.0.so \
     vendor/samsung/j3y17lte/proprietary/vendor/lib/libSEF.so:system/vendor/lib/libSEF.so \
